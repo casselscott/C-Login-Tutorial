@@ -1,0 +1,10 @@
+C:\Users\casse\Desktop\C# Login tutorial\C# Login tutorial\bin\Debug\C# Login tutorial.exe.config
+C:\Users\casse\Desktop\C# Login tutorial\C# Login tutorial\bin\Debug\C# Login tutorial.exe
+C:\Users\casse\Desktop\C# Login tutorial\C# Login tutorial\bin\Debug\C# Login tutorial.pdb
+C:\Users\casse\Desktop\C# Login tutorial\C# Login tutorial\obj\Debug\C# Login tutorial.csproj.AssemblyReference.cache
+C:\Users\casse\Desktop\C# Login tutorial\C# Login tutorial\obj\Debug\C__Login_tutorial.Tutorial.resources
+C:\Users\casse\Desktop\C# Login tutorial\C# Login tutorial\obj\Debug\C__Login_tutorial.Properties.Resources.resources
+C:\Users\casse\Desktop\C# Login tutorial\C# Login tutorial\obj\Debug\C# Login tutorial.csproj.GenerateResource.cache
+C:\Users\casse\Desktop\C# Login tutorial\C# Login tutorial\obj\Debug\C# Login tutorial.csproj.CoreCompileInputs.cache
+C:\Users\casse\Desktop\C# Login tutorial\C# Login tutorial\obj\Debug\C# Login tutorial.exe
+C:\Users\casse\Desktop\C# Login tutorial\C# Login tutorial\obj\Debug\C# Login tutorial.pdb
